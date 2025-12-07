@@ -1,0 +1,157 @@
+
+⸻
+
+📄 Privacy Policy — AI Bedtime Stories
+
+Last Updated: January 2025
+
+Welcome to AI Kids Stories.
+Your privacy is important to us. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
+
+If you do not agree with the terms of this policy, please discontinue use of the App.
+
+⸻
+
+1. Information We Collect
+
+We only collect information necessary to provide the core features of the app.
+
+⸻
+
+1.1 User-Provided Information
+
+When using the App, you may voluntarily provide:
+	•	Story inputs (child’s age group, story subject, hero name)
+	•	Optional hero image (used only for generating story illustrations)
+	•	Public/private sharing preferences for stories you generate
+	•	Account information (if signing in using Apple or Google)
+	•	Name (if provided by Apple/Google)
+	•	Email address (if provided by Apple/Google)
+
+You may also use the App as a guest, in which case no personal account data is collected.
+
+⸻
+
+1.2 Automatically Collected Information
+
+We may collect limited technical information:
+	•	Device type (iPhone/iPad/Android model)
+	•	App version
+	•	Basic usage analytics (e.g., number of stories generated)
+
+No tracking technologies, advertising IDs, or behavioral profiling are used.
+
+⸻
+
+2. How We Use Your Information
+
+Your information is used solely for:
+	•	Generating personalized stories using AI
+	•	Creating illustrations based on the hero or uploaded hero image
+	•	Generating audio narration using text-to-speech
+	•	Saving your stories to your personal library
+	•	Syncing content across devices (if logged in)
+	•	Allowing you to share stories publicly (optional)
+
+We do NOT:
+	•	Sell your data
+	•	Use your data for advertising
+	•	Share your data with any third-party marketers
+
+⸻
+
+3. How We Store and Protect Data
+
+We store generated stories, images, and audio files using Supabase, a secure cloud storage platform compliant with industry standards.
+
+We protect your data using:
+	•	Encrypted connections (HTTPS)
+	•	Secure authentication (Apple/Google sign-in)
+	•	Access control to ensure only you can view your private stories
+
+Your optional hero image is used only for illustration generation and stored securely.
+You may delete it at any time by deleting the story.
+
+⸻
+
+4. Sharing of Information
+
+We only share data in the following cases:
+
+4.1 Public Stories (Optional Feature)
+
+If you choose to make a story public, its story content, title, and illustrations may be visible to other users.
+No personal information is shown.
+
+You may change any story back to private at any time.
+
+4.2 Service Providers
+
+To generate stories, images, and audio, we use:
+	•	Google Gemini (text & image generation)
+	•	OpenAI or Lahajati (audio narration)
+	•	Supabase (secure storage & database)
+
+Your inputs are sent only to these services for the purpose of story generation.
+We do not allow them to use your data for training unless you opt in through your device settings.
+
+4.3 Legal Requirements
+
+We may disclose information if required to comply with:
+	•	Laws
+	•	Court orders
+	•	Government regulations
+
+⸻
+
+5. Children’s Privacy
+
+The App is designed for parents and families.
+Children may listen to stories, but the App does not allow children to create accounts, nor do we knowingly collect personal information from children under 13.
+
+If you believe personal data about a child was collected unknowingly, contact us immediately and we will delete it.
+
+⸻
+
+6. Data Retention
+
+We retain:
+	•	Stories, images, and audio until you delete them
+	•	Account information while your account remains active
+
+You may request full deletion of your account and associated data at any time.
+
+⸻
+
+7. Your Rights
+
+Depending on your region, you may have rights to:
+	•	Access your data
+	•	Delete your data
+	•	Change sharing settings
+	•	Withdraw consent
+	•	Export your data
+
+Contact us if you wish to exercise these rights.
+
+⸻
+
+8. Security
+
+We use industry-standard measures to protect your data; however, no system is 100% secure.
+We cannot guarantee absolute protection against unauthorized access.
+
+⸻
+
+9. Changes to This Policy
+
+We may update this Privacy Policy occasionally.
+Any changes will be posted in the app or on our website, and the “Last Updated” date will be revised.
+
+⸻
+
+10. Contact Us
+
+If you have questions about this policy or wish to request data deletion, please contact us:
+
+📧 mohammed88kw@gmail.com
